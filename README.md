@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](README.md#Выводы) 
+[1. Описание проекта](https://github.com/cool-serg/data_science/blob/main/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/cool-serg/data_science/blob/main/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/cool-serg/data_science/blob/main/README.mdmd#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/cool-serg/data_science/blob/main/README.mdmd#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/cool-serg/data_science/blob/main/README.mdmd#Результат)    
+[6. Выводы](https://github.com/cool-serg/data_science/blob/main/README.mdmd#Выводы) 
 
 ### Описание проекта    
 Выполнение домашнего задания
@@ -42,7 +42,7 @@
 За основу взят базовый проект, предоставленный SkillFactory
 
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/cool-serg/data_science/blob/main/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -52,19 +52,19 @@
 - В Readme.md скорректирована информация по проекту
 - Проект отправлен на github
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/cool-serg/data_science/blob/main/README.md#Оглавление)
 
 
 ### Результаты:  
 Ваш алгоритм угадывает число в среднем за:5 попыток
 
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/cool-serg/data_science/blob/main/README.md#Оглавление)
 
 
 ### Выводы:  
 Алгоритм отрабатывает согласно заданию
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/cool-serg/data_science/blob/main/README.md#Оглавление)
 
 
