@@ -3,10 +3,10 @@
 ## Оглавление  
 [1. Описание проекта](https://github.com/cool-serg/data_science/blob/main/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/cool-serg/data_science/blob/main/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/cool-serg/data_science/blob/main/README.mdmd#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/cool-serg/data_science/blob/main/README.mdmd#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/cool-serg/data_science/blob/main/README.mdmd#Результат)    
-[6. Выводы](https://github.com/cool-serg/data_science/blob/main/README.mdmd#Выводы) 
+[3. Краткая информация о данных](https://github.com/cool-serg/data_science/blob/main/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/cool-serg/data_science/blob/main/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/cool-serg/data_science/blob/main/README.md#Результат)    
+[6. Выводы](https://github.com/cool-serg/data_science/blob/main/README.md#Выводы) 
 
 ### Описание проекта    
 Выполнение домашнего задания
