@@ -55,7 +55,7 @@
 :arrow_up:[к оглавлению](https://github.com/cool-serg/data_science/blob/main/README.md#Оглавление)
 
 
-### Результаты:  
+### Результат:  
 Ваш алгоритм угадывает число в среднем за:5 попыток
 
 
